@@ -1,7 +1,7 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://github.com/wassiq)
 <h1 align="center">Hi 👋, I'm Wasiq Ali</h1>
 <h3 align="center">Passionate React Native developer creating seamless mobile experiences with innovation and precision.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" height ="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wassiq&label=Profile%20views&color=0e75b6&style=flat" alt="wassiq" /> </p>
 
 
