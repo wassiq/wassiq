@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Wassiq</h1>
+<h1 align="center">Hey, I'm Wasiq</h1>
 <h3 align="center"></h3>
 
 <a href="https://www.linkedin.com/in/wasiq-ali-885825220/">
